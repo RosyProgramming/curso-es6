@@ -1,0 +1,7 @@
+node_module/
+
+.vscode
+.config
+
+c:\Users\ASUS\.vscode\extensions
+.config/configstore
